@@ -39,9 +39,16 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     'rest_framework',
+    
+    #Models from the Database (hospital_systemDB)
     'patients',
     'ward',
     'specialization',
+    'doctor',
+    #'nurse',
+    #'appointment',
+    #'room',
+    #'admission',
     
     
 ]
