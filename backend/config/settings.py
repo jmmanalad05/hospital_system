@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'specialization',
     'doctor',
     'nurse',
-    #'appointment',
+    'appointment',
     #'room',
     #'admission',
     
